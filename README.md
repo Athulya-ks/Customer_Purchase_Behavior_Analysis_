@@ -27,7 +27,8 @@ Total Customers by Purchase Amount
 Customers are distributed across various purchase amounts, with most frequent purchases between $85-$99.
 Understanding pricing sensitivity in this range can help optimize product pricing strategies.
 
-3. Conclusion & Recommendations
+Conclusion & Recommendations
+
 Category Focus: 
 	Prioritize marketing and promotions for Clothing and Accessories as they generate the most revenue.
 Seasonal Strategy: 
